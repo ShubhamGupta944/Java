@@ -10,7 +10,7 @@ public class duplicateString{
 
         System.out.println("please enter a string");
 
-        String a = scan.next();
+        String a = scan.nextLine();
 
         char[] b = a.toCharArray(); 
 
